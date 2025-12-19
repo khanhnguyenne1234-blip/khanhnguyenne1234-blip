@@ -1,4 +1,57 @@
-## Hi there 👋
+👋 Hi, I'm [Your Name]
+
+🎓 Student | 💻 Aspiring Developer | 🚀 Lifelong Learner  
+
+Welcome to my profile! I’m passionate about learning, building things, and improving myself every day.
+
+---
+
+## 🧠 About Me
+- 📍 Based in: [Your Location]
+- 🎯 Current goal: [e.g. Improve my coding & problem-solving skills]
+- 🌱 Currently learning: [e.g. Python, JavaScript, SAT, IELTS, Web Dev]
+- 💡 Interested in: [e.g. Tech, Education, AI, Music, Design]
+- ⚡ Fun fact: [Something cool about you]
+
+---
+
+## 🛠️ Skills
+**Languages**
+- Python
+- JavaScript
+- C / C++ / Java (optional)
+
+**Tools & Technologies**
+- Git & GitHub  
+- VS Code  
+- HTML / CSS  
+- Markdown  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📚 Projects
+- 🔹 **[Project Name]** – Short description  
+- 🔹 **[Project Name]** – What problem it solves  
+- 🔹 **[Project Name]** – Tech used  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: your.email@example.com  
+- 💬 Facebook / Instagram / Discord: [Your link]  
+- 🌐 Portfolio: [Your website if any]
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to connect or collaborate.*
+
 
 <!--
 **khanhnguyenne1234-blip/khanhnguyenne1234-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
