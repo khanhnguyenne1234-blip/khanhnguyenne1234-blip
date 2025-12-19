@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi, I'm Khánh 👋</h2>
 <p align="center">Student | Developer | Learner</p>
-![Masterhead](https://github.com/user-attachments/assets/1eded964-d4db-49b1-ad09-b9f16e526105)
+![Image](https://github.com/user-attachments/assets/46fe9544-8d5a-4325-bc54-fd8d01a043ac)
 
 
 
